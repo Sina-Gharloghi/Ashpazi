@@ -1,0 +1,496 @@
+.App {
+  height: 100%;
+}
+.header
+{
+  height: 8%;
+  background-color: rgb(255, 71, 157);
+  font-family: B Koodak;
+}
+
+.btn
+{
+  font-family: B Koodak;
+  width: 5%;
+  height: 40%;
+  margin-top: 1.3%;
+  border-radius: 35px;
+  font-size: 100%;
+  border: 0px;
+  position: relative;
+}
+#signup
+{
+  margin-left: 20%;
+  color: rgb(255, 71, 157);
+}
+#signin
+{
+  margin-left: 0.5%;
+  background-color: rgb(94, 120, 254);
+  color: white;
+}
+
+.menu
+{
+  text-decoration: none;
+  font-family: B Koodak;
+  color: white;
+  margin-left: 20%;
+  position: absolute;
+  margin-top: 0.7%;
+}
+
+#bevrages{margin-left: 15%;}
+#cakes{margin-left: 19%;}
+#deser{margin-left: 23%;}
+#pitza{margin-left: 27%;}
+#kebab{margin-left: 31%;}
+#other{margin-left: 35%;}
+
+#logo
+{
+  margin-left: 72%;
+  position: absolute;
+  top: 0%;
+}
+
+#circle
+{
+  height: 55px;
+position: absolute;
+margin-top: 10px;
+margin-left: 5px;
+}
+
+.body
+{
+  position: relative;
+  height: 180%;
+  background-color: rgb(248, 248, 248);
+}
+
+.footer
+{
+  height: 30%;
+  background-color: rgb(248, 31, 132);
+}
+#footeropt
+{
+  height: 85%;
+  background-color: rgb(255, 71, 157);
+}
+#copyright
+{
+  font-family: B Koodak;
+  color: white;
+  bottom: 0px;
+  text-align: center;
+}
+
+.title
+{
+  font-family: B Koodak;
+  color: white;
+  font-size: 110%;
+  margin-top: 10px;
+  position: absolute;
+}
+#social{margin-left: 22%;}
+#costomers{margin-left: 40%;}
+#contact{margin-left: 60%;}
+#company{margin-left: 75%;}
+
+.footerlinks
+{
+  position: relative;
+}
+
+.pages
+{
+  width: 30px;
+  height: 25px;
+  position: sticky;
+  margin-left: 0.5%;
+}
+#insta{margin-left: 20%;}
+
+#namad
+{
+  margin-left: 20%;
+}
+#saman
+{
+  margin-left: 1%;
+}
+.service
+{
+  position: absolute;
+  text-decoration: none;
+  color: white;
+  font-family: B Koodak;
+}
+#question
+{
+  margin-left: 13%;
+  position: absolute;
+}
+#pv
+{
+margin-left: 13%;
+margin-top: 30px;
+position: absolute;
+}
+
+.adress
+{
+  position: absolute;
+  font-family: B Koodak;
+  color: white;
+  margin-left: 50%;
+  top: -10%;
+}
+
+#tel
+{
+  margin-left: 50%;
+}
+#e-m
+{
+  margin-left: 50%;
+}
+
+.ourcompany
+{
+  position: absolute;
+  font-family: B Koodak;
+  color: white;
+  margin-left: 73%;
+  top: -10%;
+}
+
+.comp
+{
+  text-decoration: none;
+  color: white;
+  text-align: right;
+}
+
+#line1
+{
+  position: absolute;
+  height: 0.3%;
+  width: 6%;
+  color: rgb(94, 120, 254);
+  background-color: rgb(94, 120, 254);
+  margin-left: 21.7%;
+}
+#line2
+{
+  position: absolute;
+  height: 0.3%;
+  width: 5%;
+  color: rgb(94, 120, 254);
+  background-color: rgb(94, 120, 254);
+  margin-left: 40%;
+}
+#line3
+{
+  position: absolute;
+  height: 0.3%;
+  width: 5%;
+  color: rgb(94, 120, 254);
+  background-color: rgb(94, 120, 254);
+  margin-left: 59%;
+}
+#line4
+{
+  position: absolute;
+  height: 0.3%;
+  width: 5%;
+  color: rgb(94, 120, 254);
+  background-color: rgb(94, 120, 254);
+  margin-left: 73%;
+}
+
+#pitzalogo
+{
+  position: absolute;
+  width: 6%;
+  height: 7%;
+  margin-left: 47%;
+  margin-top: 3%;
+}
+
+#recepie
+{
+  position: absolute;
+  font-size: 200%;
+  color: white;
+  font-family: B Koodak;
+  margin-top: 10%;
+  margin-left: 45%;
+}
+#url
+{
+  position: absolute;
+  font-family: B Koodak;
+  color: grey;
+  margin-left: 78.5%;
+}
+#site
+{
+  position: absolute;
+  font-family: B Koodak;
+  margin-left: 80%;
+}
+
+.pitza
+{
+  width: 60%;
+  margin-left: 20%;
+  height: 12%;
+  background-color: white;
+  border-radius: 10px;
+  margin-top: 3%;
+  font-family: b Koodak;
+  position: absolute;
+}
+
+#group
+{
+  width: 100%;
+}
+#pitzapic
+{
+  width: 18%;
+  height: 90%;
+  padding: 1%;
+  float: right;
+}
+#plogo
+{
+  margin-top: 3%;
+  float: right;
+  width: 3%;
+  height: 10%;
+  margin-right: 2%;
+}
+h3
+{
+  margin-top: 2.5%;
+  float: right;
+  margin-right: 1%;
+}
+.detail
+{
+  direction: rtl;
+  margin-top: 5.5%;
+  color: grey;
+  font-size: 90%;
+  position: relative;
+}
+
+#p2{margin-top: 17%;}
+#p3{margin-top: 31%;}
+#p4{margin-top: 45%;}
+#p5{margin-top: 59%;}
+
+#recepiebtn
+{
+  background-color: rgb(94, 120, 254);
+  font-family: b Koodak;
+  color: white;
+  border-radius: 30px;
+  width: 10%;
+  height: 18%;
+  margin-left: 2%;
+  font-size: 100%;
+  /*margin-top: -13%;*/
+  border: 0px;
+}
+
+.Learnbody
+{
+  position: relative;
+  height: 200%;
+  background-color: rgb(248, 248, 248);
+}
+
+#url1
+{
+  color: black;
+  margin-left: 78%;
+  position: absolute;
+  font-family: B Koodak;
+}
+#pname
+{
+  position: absolute;
+  font-family: B Koodak;
+  color: grey;
+  margin-left: 74%;
+}
+.wallpaper
+{
+  margin-left: 20%;
+  width: 50%;
+  height: 20%;
+  position: absolute;
+  border-radius: 20px;
+  margin-top: 3%;
+}
+.pepperoni
+{
+  margin-left: 20%;
+  width: 63.2%;
+  height: 60%;
+  position: absolute;
+  margin-top: 18.8%;
+  background-color: white;
+  border-radius: 10px;
+}
+#pinklogo
+{
+  height: 3%;
+  float: right;
+  padding-right: 3%;
+  padding-top: 3%;
+}
+#pepname
+{
+  float: right;
+  font-family: b Koodak;
+  margin-top: 2.5%;
+  margin-right: 2%;
+}
+#summery
+{
+  direction: rtl;
+  margin-right: 5%;
+  font-family: b Koodak;
+  color: grey;
+  font-size: 110%;
+}
+
+.dot
+{
+    width: 15px;
+    height: 15px;
+    border-radius: 50%;
+    color: rgb(255, 71, 157);
+    background-color: rgb(255, 71, 157);
+    float: right;
+    margin-right: 3%;
+    margin-top: 3%;
+}
+#require
+{
+  font-family: b Koodak;
+  float: right;
+  margin-right: 1%;
+}
+
+#vector1
+{
+  width: 12px;
+  height: 20px;
+  float: right;
+  margin-right: 3%;
+}
+.req
+{
+  position: relative;
+  font-family: b Koodak;
+  float: right;
+  margin-right: 2%;
+  margin-top: -0.5%;
+}
+
+#how
+{
+  direction: rtl;
+  color: rgb(100, 100, 100);
+  font-family: b Koodak;
+  margin-right: 2%;
+}
+
+.recommend
+{
+  width: 63.2%;
+  margin-left: 20%;
+  height: 18%;
+  position: absolute;
+}
+
+.rec1
+{
+  background-color: white;
+  margin-top: 1%;
+  width: 48%;
+  height: 93%;
+  border-radius: 15px;
+}
+
+.rec2
+{
+  background-color: white;
+  margin-left: 52%;
+  margin-top: -26.9%;
+  width: 48%;
+  height: 93.3%;
+  position: absolute;
+  border-radius: 15px;
+}
+
+#picR
+{
+  float: right;
+  height: 80%;
+  margin-top: 6%;
+  margin-right: 2%;
+}
+
+#PL
+{
+  width: 7%;
+  height: 10%;
+  float: right;
+  margin-top: 10%;
+  margin-right: 3%;
+}
+#similar
+{
+  margin-right: 17%;
+  font-family: b Koodak;
+}
+
+#similarname
+{
+  float: right;
+  margin-top: 10%;
+  margin-right: 2%;
+  font-family: b Koodak;
+  font-size: 120%;
+}
+
+#similardet
+{
+  font-family: b Koodak;
+  direction: rtl;
+  color: grey;
+  margin-right: 2%;
+}
+
+#similarbtn
+{
+  background-color: rgb(94, 120, 254);
+  font-family: b Koodak;
+  color: white;
+  border-radius: 30px;
+  margin-left: 5%;
+  border: 0px;
+  width: 18%;
+  height: 12%;
+  font-size: 100%;
+}
